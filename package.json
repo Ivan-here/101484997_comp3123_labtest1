@@ -1,0 +1,10 @@
+{
+  "name": "101484997_comp3123_labtest1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "question1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "private": true
+}
